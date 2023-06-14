@@ -2,7 +2,7 @@
 
 ## Linear Regression to Predict MPG
 
-![alt text](https://github.com/dharlerjr/MechaCar_Statistical_Analysis/blob/main/Images/Output_d1.PNG)
+<img src = "https://github.com/dharlerjr/MechaCar_Statistical_Analysis/blob/main/Images/Output_d1.PNG" width = "400" height = "400">
 
 By examining their individual p-values, we see that the following variables/coefficients provide a non-random amount of variance to the mpg values in the dataset...
 * Intercept
