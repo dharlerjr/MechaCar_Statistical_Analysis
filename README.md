@@ -22,13 +22,13 @@ According to our total summary, the current manufacturing data meets the design 
 
 ## T-Tests on Suspension Coils
 ### All Lots
-<img src = "https://github.com/dharlerjr/MechaCar_Statistical_Analysis/blob/main/Images/Output_d3_all_lots_t_test.png">
+<img src = "https://github.com/dharlerjr/MechaCar_Statistical_Analysis/blob/main/Images/Output_d3_all_lots_t_test.png" width = "533" height = "167">
 
 
 ### Lots 1 & 2
-<img src = "https://github.com/dharlerjr/MechaCar_Statistical_Analysis/blob/main/Images/Output_d3_lot1_t_test.png">
-<img src = "https://github.com/dharlerjr/MechaCar_Statistical_Analysis/blob/main/Images/Output_d3_lot2_t_test.png">
+<img src = "https://github.com/dharlerjr/MechaCar_Statistical_Analysis/blob/main/Images/Output_d3_lot1_t_test.png" width = "533" height = "167">
+<img src = "https://github.com/dharlerjr/MechaCar_Statistical_Analysis/blob/main/Images/Output_d3_lot2_t_test.png" width = "533" height = "167">
 
 
 ### Lot 3
-<img src = "https://github.com/dharlerjr/MechaCar_Statistical_Analysis/blob/main/Images/Output_d3_lot3_t_test.png">
+<img src = "https://github.com/dharlerjr/MechaCar_Statistical_Analysis/blob/main/Images/Output_d3_lot3_t_test.png" width = "533" height = "167">
