@@ -18,7 +18,7 @@ Furthermore, because our R-squared value is 0.71 >= 0.71, we can conclude that o
 <img src = "https://github.com/dharlerjr/MechaCar_Statistical_Analysis/blob/main/Images/Output_d2_total_summary.png" width = "400" height = "133">
 <img src = "https://github.com/dharlerjr/MechaCar_Statistical_Analysis/blob/main/Images/Output_d2_lot_summary.png" width = "533" height = "167">
 
-According to our total summary, the current manufacturing data meets the design specification stating that the variance of the suspension coils must not exceed 100 pounds per square inch. On the other hand, according to our lot summary, while Lots 1 and 2 pass the necessary design specification, we see that Lot 3 fails with a variance of 170.29.
+According to our total summary, the current manufacturing data meets the design specification stating that the variance of the suspension coils must not exceed 100 pounds per square inch. On the other hand, according to our lot summary, while lots 1 and 2 pass the necessary design specification, we see that Lot 3 fails with a variance of 170.29.
 
 ## T-Tests on Suspension Coils
 ### All Lots
